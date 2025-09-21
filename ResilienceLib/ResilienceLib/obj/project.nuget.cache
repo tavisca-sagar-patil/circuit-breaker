@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeYIHf5n2Zo=",
+  "success": true,
+  "projectFilePath": "/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/ResilienceLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/d620640/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/polly/8.6.3/polly.8.6.3.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/polly.core/8.6.3/polly.core.8.6.3.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/polly.extensions/8.6.3/polly.extensions.8.6.3.nupkg.sha512",
+    "/Users/d620640/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

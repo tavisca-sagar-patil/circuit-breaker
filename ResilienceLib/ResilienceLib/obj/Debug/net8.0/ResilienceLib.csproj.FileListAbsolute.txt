@@ -1,0 +1,13 @@
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/bin/Debug/net8.0/ResilienceLib.deps.json
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/bin/Debug/net8.0/ResilienceLib.dll
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/bin/Debug/net8.0/ResilienceLib.pdb
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.AssemblyInfoInputs.cache
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.AssemblyInfo.cs
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.csproj.CoreCompileInputs.cache
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.sourcelink.json
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.dll
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/refint/ResilienceLib.dll
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.pdb
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ref/ResilienceLib.dll
+/Users/d620640/projects/circuit-breaker/ResilienceLib/ResilienceLib/obj/Debug/net8.0/ResilienceLib.csproj.AssemblyReference.cache
