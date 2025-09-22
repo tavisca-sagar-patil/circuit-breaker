@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceLib", "ResilienceLib\ResilienceLib\ResilienceLib.csproj", "{AD345CB6-A085-486B-AE1E-A02F6854905B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResiliencyTestApi", "ResiliencyTestApi\ResiliencyTestApi.csproj", "{7AF24C82-283F-4BE1-AAB8-6E49E172E075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD345CB6-A085-486B-AE1E-A02F6854905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD345CB6-A085-486B-AE1E-A02F6854905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD345CB6-A085-486B-AE1E-A02F6854905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD345CB6-A085-486B-AE1E-A02F6854905B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF24C82-283F-4BE1-AAB8-6E49E172E075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF24C82-283F-4BE1-AAB8-6E49E172E075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF24C82-283F-4BE1-AAB8-6E49E172E075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF24C82-283F-4BE1-AAB8-6E49E172E075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

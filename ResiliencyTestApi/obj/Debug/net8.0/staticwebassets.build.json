@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9RhtULLhYSIvJgJ2Tzt6DS5Gi/uaUz7HBtOyEV5Zee8=",
+  "Source": "ResiliencyTestApi",
+  "BasePath": "_content/ResiliencyTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
